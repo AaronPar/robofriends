@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/robofriends/static/css/2.b6542a81.chunk.css"
   },
   {
-    "revision": "9a871526723928d1dbed638abb776ead",
+    "revision": "e99eb1edaed8a3bd282b28bce07c9f4a",
     "url": "/robofriends/index.html"
   }
 ];
